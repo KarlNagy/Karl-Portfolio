@@ -11,6 +11,7 @@ Data Analyst portfolio
 * Listed four recommendations to convert casuals to members
 * Created data visualizations to illustrate findings
 
+
 # [Project 2: Quarterly Widget Volume Report: Project Overview](https://github.com/KarlNagy/excel)
 <img src="https://github.com/KarlNagy/excel/raw/main/charts/2021-all-client-volume_Q1-Q2.png?raw=true" width="600" height="500" />
 
